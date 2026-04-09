@@ -1,79 +1,88 @@
-# CCNA Project
+# CCNA Project / Projekt CCNA / Проєкт CCNA
 
 ---
 
 ## EN
 
-###  Description
-This repository contains practical networking labs and configurations created as part of CCNA (Cisco Certified Network Associate) studies.
+### Description
+This repository contains networking labs created during CCNA studies. It focuses on configuring and testing network environments using Cisco Packet Tracer.
 
-###  Features
+### Features
 - Network topology design  
 - Router and switch configuration  
-- Static and dynamic routing (RIP, OSPF, etc.)  
-- VLAN and subnetting  
-- Troubleshooting scenarios  
+- IP addressing and subnetting  
+- Static routing  
+- Basic network troubleshooting  
 
-###  Technologies
+### Technologies
 - Cisco Packet Tracer  
-- Networking protocols (TCP/IP, RIP, OSPF)  
+- TCP/IP  
 
-###  How to run
-1. Install Cisco Packet Tracer  
-2. Open `.pkt` files  
-3. Run simulations  
+### How to run
+1. Open the `.pkt` files in Cisco Packet Tracer  
+2. Analyze the topology  
+3. Test connectivity using simulation mode  
 
-###  Author
-digidanq 
+### Notes
+This project is educational and was created as part of networking coursework.
+
+### Author
+digidanq  
 
 ---
 
 ## PL
 
-###  Opis
-Repozytorium zawiera praktyczne laboratoria sieciowe przygotowane w ramach nauki CCNA.
+### Opis
+Repozytorium zawiera laboratoria sieciowe wykonane podczas nauki CCNA.
 
-###  Funkcjonalności
-- Projektowanie topologii sieci  
+### Funkcjonalności
+- Projektowanie topologii  
 - Konfiguracja routerów i switchy  
-- Routing statyczny i dynamiczny (RIP, OSPF)  
-- VLAN i adresacja IP  
+- Adresacja IP i subnetting  
+- Routing statyczny  
 - Diagnostyka sieci  
 
-###  Technologie
+### Technologie
 - Cisco Packet Tracer  
-- Protokoły sieciowe  
+- TCP/IP  
 
-###  Uruchomienie
-1. Zainstaluj Cisco Packet Tracer  
-2. Otwórz pliki `.pkt`  
-3. Uruchom symulację  
+### Uruchomienie
+1. Otwórz pliki `.pkt` w Packet Tracer  
+2. Sprawdź konfigurację  
+3. Przetestuj sieć  
 
-###  Autor
-digidanq 
+### Uwagi
+Projekt edukacyjny wykonany w ramach zajęć.
+
+### Autor
+digidanq  
 
 ---
 
 ## UA
 
-###  Опис
-Цей репозиторій містить лабораторні роботи з мереж, створені під час вивчення CCNA.
+### Опис
+Репозиторій містить лабораторні роботи з мереж, створені під час вивчення CCNA.
 
-###  Можливості
-- Проєктування мереж  
-- Конфігурація маршрутизаторів і комутаторів  
-- Статична та динамічна маршрутизація  
-- VLAN і IP-адресація  
-- Діагностика мережі  
+### Можливості
+- Побудова топології  
+- Налаштування маршрутизаторів і комутаторів  
+- IP-адресація  
+- Статична маршрутизація  
+- Діагностика  
 
-###  Технології
+### Технології
 - Cisco Packet Tracer  
-- Мережеві протоколи  
+- TCP/IP  
 
-###  Запуск
-1. Встановіть Cisco Packet Tracer  
-2. Відкрийте `.pkt` файли  
-3. Запустіть симуляцію  
+### Запуск
+1. Відкрити `.pkt` файли  
+2. Перевірити топологію  
+3. Запустити симуляцію  
 
-###  Автор
-digidanq 
+### Примітки
+Навчальний проєкт.
+
+### Автор
+digidanq  
