@@ -5,7 +5,7 @@
 ## EN
 
 ### Description
-This repository contains networking labs created during CCNA studies. It focuses on configuring and testing network environments using Cisco Packet Tracer.
+This project presents practical networking implementations based on CCNA concepts. It includes designed network topologies and configured devices using Cisco Packet Tracer.
 
 ### Features
 - Network topology design  
@@ -34,7 +34,7 @@ digidanq
 ## PL
 
 ### Opis
-Repozytorium zawiera laboratoria sieciowe wykonane podczas nauki CCNA.
+Projekt przedstawia praktyczne zastosowanie zagadnień CCNA. Zawiera zaprojektowane topologie sieci oraz konfigurację urządzeń.
 
 ### Funkcjonalności
 - Projektowanie topologii  
@@ -53,7 +53,7 @@ Repozytorium zawiera laboratoria sieciowe wykonane podczas nauki CCNA.
 3. Przetestuj sieć  
 
 ### Uwagi
-Projekt edukacyjny wykonany w ramach zajęć.
+Projekt edukacyjny.
 
 ### Autor
 digidanq  
@@ -63,7 +63,7 @@ digidanq
 ## UA
 
 ### Опис
-Репозиторій містить лабораторні роботи з мереж, створені під час вивчення CCNA.
+Проєкт демонструє практичне застосування знань CCNA. Містить створені мережеві топології та налаштовані пристрої.
 
 ### Можливості
 - Побудова топології  
